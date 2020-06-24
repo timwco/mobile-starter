@@ -23,13 +23,13 @@ This includes the following:
 
 
 ```
-yarn add @react-native-community/async-storage, @react-native-community/masked-view, @react-navigation/native, @react-navigation/stack, https://github.com/twhitacre/autodux, prop-types, react-native-bootsplash, react-native-gesture-handler, react-native-reanimated, react-native-safe-area-context, react-native-screens, react-redux, reactotron-react-native, reactotron-redux, redux
+yarn add @react-native-community/async-storage @react-native-community/masked-view @react-navigation/native @react-navigation/stack https://github.com/twhitacre/autodux prop-types react-native-bootsplash react-native-gesture-handler react-native-reanimated react-native-safe-area-context react-native-screens react-redux reactotron-react-native reactotron-redux redux
 ```
 
 Then install the following for dev
 
 ```
-yarn add --dev babel-plugin-import, babel-plugin-module-resolver
+yarn add --dev babel-plugin-import babel-plugin-module-resolver
 ```
 
 ## Dependencies
