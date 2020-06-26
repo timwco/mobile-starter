@@ -11,4 +11,7 @@ if (window.__DEV__) {
   import('./src/utils/reactotron');
 }
 
+// Prevents the Yellow Boxes from appearing. 
+console.disableYellowBox = true;
+
 AppRegistry.registerComponent(appName, () => App);
