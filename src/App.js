@@ -2,7 +2,6 @@
  * PROJECT NAME Mobile App
  * @format
  */
-import 'react-native-gesture-handler';
 import React from 'react';
 import {Provider as ReduxProvider} from 'react-redux';
 import Navigator from 'utils/navigator';

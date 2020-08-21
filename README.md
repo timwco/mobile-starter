@@ -36,7 +36,7 @@ yarn add --dev babel-plugin-import babel-plugin-module-resolver
 
 For most packages listed above, just ensure you install the pods `cd ios && pod install && cd ..`
 
-For [`react-native-gesture-handler`](https://docs.swmansion.com/react-native-gesture-handler/docs/getting-started.html), follow the getting started guide for implementation. 
+For [`react-native-gesture-handler`](https://docs.swmansion.com/react-native-gesture-handler/docs/), follow the getting started guide for implementation. 
 
 For [`react-native-bootsplash`](https://github.com/zoontek/react-native-bootsplash), first modify the `icon.png` file, then follow the tutorial on the page to set it all up.
 
